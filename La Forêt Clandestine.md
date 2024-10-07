@@ -1,4 +1,4 @@
-La Forêt Clandestine
+La Forêt Clandestine - Wilson Duguet
 
 Vous pénétrez dans une forêt dense et obscure. Les arbres imposants créent un labyrinthe naturel.
 Vous entendez des bruits étranges autour de vous.
