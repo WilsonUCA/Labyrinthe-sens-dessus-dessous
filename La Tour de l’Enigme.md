@@ -4,7 +4,6 @@ Vous grimpez une tour qui semble toucher les cieux.
 Tout en haut, un grand livre mystérieux est posé sur un piédestal.
 Résolvez l'énigme, ou vous resterez piégé à jamais.
 
-[Réussissez l’énigme et ouvrez un passage vers la Grande Salle Finale]()
-[Échouez à l'énigme et retournez à la Salle Game Over]()
-[Descendez la tour et retournez à la Salle des Portes]()
+[Vous appuyez sur les boutons au hasard](reussi)
+[La réponse D](https://github.com/WilsonUCA/Labyrinthe-sens-dessus-dessous/blob/main/GAMEOVER.md)
 [Les murmures dans le Grenier des Murmures vous attirent ici]()
