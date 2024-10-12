@@ -1,7 +1,0 @@
-# Bienvenue a la clairière lumineuse
-
-
-
-![Lieu 4](images/lieu1.png)  <!-- Assure-toi d'avoir téléversé l'image à ce chemin -->
-
-[Aller au lieu suivant](https://tonnom.github.io/tondepot/lieu2)
