@@ -1,4 +1,4 @@
-# Bienvenue a la clairière lumineuse
+# Bienvenue a la clairière lumineuse - Cyril Camuset
 
 ![Clairière lumineuse](https://github.com/WilsonUCA/Labyrinthe-sens-dessus-dessous/raw/main/lieu_4_5_6/clairière lumineuse.jpg)
 
