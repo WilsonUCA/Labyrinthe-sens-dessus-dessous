@@ -1,13 +1,5 @@
 # Bienvenue au Lac Maudit - Nourhen ben achour
 
+[Plongez et trouvez un passage vers le Repaire de l’Ombre Traversez le lac à la nage pour atteindre la Caverne Cristalline] 
 
-Vous trouvez un lac souterrain où l’eau est noire et opaque. Ce lieu est empreint de magie noire, et nombreux sont ceux qui y ont disparu.
-
-Plongez et trouvez un passage vers le Repaire de l’Ombre Traversez le lac à la nage pour atteindre la Caverne Cristalline Le lac vous engloutit et vous renvoie à la Salle Game Over
-
-
-![Clairière lumineuse](https://github.com/WilsonUCA/Labyrinthe-sens-dessus-dessous/raw/main/lieu_4_5_6/clairière lumineuse.jpg)
-
-  <!-- Assure-toi d'avoir téléversé l'image à ce chemin -->
-
-[Retournez à la Forêt Clandestine](https://github.com/WilsonUCA/Labyrinthe-sens-dessus-dessous/blob/main/La%20For%C3%AAt%20Clandestine.md)
+(https://github.com/WilsonUCA/Labyrinthe-sens-dessus-dessous/blob/main/lieu_4_5_6/lieu%206.md)
