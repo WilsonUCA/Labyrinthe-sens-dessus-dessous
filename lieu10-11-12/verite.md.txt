@@ -1,14 +1,3 @@
-# Bienvenue a La Salle de la Vérité - Nourhen ben achour
+# Bienvenue Le Grenier des Murmures - Nourhen ben achour
 
-
-Un lieu où seules la vérité et l'honnêteté vous permettront d’avancer. 
-Si vous mentez, vous serez piégé pour toujours.
-
-
-
-
-![Clairière lumineuse](https://github.com/WilsonUCA/Labyrinthe-sens-dessus-dessous/raw/main/lieu_4_5_6/clairière lumineuse.jpg)
-
-  <!-- Assure-toi d'avoir téléversé l'image à ce chemin -->
-
-[Retournez à la Forêt Clandestine](https://github.com/WilsonUCA/Labyrinthe-sens-dessus-dessous/blob/main/La%20For%C3%AAt%20Clandestine.md)
+[le jeu est fini GAME OVER](https://github.com/WilsonUCA/Labyrinthe-sens-dessus-dessous/blob/main/GAMEOVER.md)
